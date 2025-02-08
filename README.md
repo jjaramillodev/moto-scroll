@@ -20,8 +20,3 @@ Para instalar Moto Scroll, simplemente clona este repositorio y añade el archiv
 ```bash
 git clone https://github.com/tu-usuario/moto-scroll.git
 ```
-=======
-Moto scroll keyframes animation with javascript.
-
-Based on https://github.com/midudev/javascript-100-proyectos.git
->>>>>>> b4b3d1dc41e1fb5202f869a7187ca5a8122bb48b
